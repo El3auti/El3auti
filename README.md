@@ -11,4 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=El3auti&theme=dark&hide_border=false&include_all_commits=false&count_private=true)</br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bautista-mateuci-7b3086243) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=El3auti&theme=dark&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
