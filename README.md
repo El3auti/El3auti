@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/El3auti/El3auti/output/snake.svg" alt="Snake animation" />
 
 ###
